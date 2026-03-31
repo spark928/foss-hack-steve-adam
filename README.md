@@ -14,6 +14,12 @@ The app is built on a **FOSS (Free and Open Source Software)** stack, prioritizi
 * **UI Framework:** Flutter (Material 3) — Google’s latest design system for a fluid, modern experience.
 
 ---
+## 📺 Project Demo
+Watch the **Study Flow** ecosystem in action, featuring the Live Timetable Highlighting, PDF Vault, and Native Time Dial integration.
+
+[![Study Flow Demo](https://img.youtube.com/vi/6BliMVecqSg/0.jpg)](https://youtu.be/6BliMVecqSg)
+
+*Click the image above to watch the full demonstration on YouTube.*
 
 ## 🌟 Key Features
 
@@ -39,6 +45,20 @@ Bridge the gap between "planning" and "doing."
 ### 4. Attendance Tracker
 * **Automated Calculations:** Tracks "Total" vs. "Attended" classes.
 * **Threshold Alerts:** Visual warnings if attendance drops below the user-defined "Minimum %."
+
+### 5. Mindmap
+* **Tree formation:** Help have a structured understanding.
+
+### 6. Flash Cards
+* **Easy revision:** Help in revising anytime anywhere.
+* **Fun and fast revision:** A fun way to learn and revise topics faster.
+
+### 6. To do list
+* **Track task:** Help in tracking your tasks and avoid last minute rush.
+
+* ### 6. Freehand Canvas
+* **Simple :** Help in tracking your tasks and avoid last minute rush.
+
 
 ---
 
