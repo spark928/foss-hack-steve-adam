@@ -1,4 +1,4 @@
-# 🎓 Academic Vault: Privacy-First Student OS
+# 🎓 Study Flow: Students Buddy
 
 **Academic Vault** is a high-performance, local-first productivity suite built with Flutter. It is designed to replace fragmented study tools with a single, cohesive ecosystem that respects user privacy and functions entirely offline.
 
